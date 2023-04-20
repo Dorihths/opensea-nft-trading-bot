@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@opensea/stream-js": "^0.0.20",
+    "@opensea/stream-js": "^0.0.25",
     "@truffle/hdwallet-provider": "^2.0.8",
     "node-fetch": "^3.2.4",
     "opensea-js": "^2.0.2",
