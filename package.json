@@ -13,7 +13,7 @@
   "dependencies": {
     "@opensea/stream-js": "^0.0.20",
     "@truffle/hdwallet-provider": "^2.0.8",
-    "node-fetch": "^3.2.4",
+    "node-fetch": "^3.3.1",
     "opensea-js": "^2.0.2",
     "web3": "^1.7.3",
     "ws": "^8.6.0"
