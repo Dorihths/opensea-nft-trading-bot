@@ -15,7 +15,7 @@
     "@truffle/hdwallet-provider": "^2.0.8",
     "node-fetch": "^3.2.4",
     "opensea-js": "^2.0.2",
-    "web3": "^1.7.3",
+    "web3": "^4.0.1",
     "ws": "^8.6.0"
   }
 }
